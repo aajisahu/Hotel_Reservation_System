@@ -2,8 +2,8 @@ package com.workshop;
 import java.util.ArrayList;
 import java.util.List;
 /**
- * Purpose  - Ability to find cheapest hotel for a given data range
-
+ * Purpose  - Ability to add weekday and weekend rates for each Hotel
+ 
  */
 
 public class HotelReservationSystem {
