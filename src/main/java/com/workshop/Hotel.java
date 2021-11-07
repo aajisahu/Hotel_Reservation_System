@@ -1,5 +1,7 @@
 package com.workshop;
-
+/**
+ * Purpose - Implementation of setters and getters
+ */
 public class Hotel {
     private String hotelName;
     private String customerType;
