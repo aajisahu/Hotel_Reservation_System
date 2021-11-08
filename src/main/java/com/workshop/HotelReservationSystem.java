@@ -3,8 +3,6 @@ package com.workshop;
 import java.util.ArrayList;
 /*
 * Program : Hotel reservation System
-* Author : Navalkumar
-* Date : 23/10/2021
 * */
 public class HotelReservationSystem {
     // ArrayList to store Hotel details
